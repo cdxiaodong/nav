@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/#/light",
+      "destination": "/#/side"
+    }
+  ]
+}
+
